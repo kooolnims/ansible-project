@@ -4,9 +4,9 @@ pipeline {
   
   stages {
     
-    Stages("build"){
+    stages("build"){
       
-      Steps {
+      steps {
     
       }     
     }        
